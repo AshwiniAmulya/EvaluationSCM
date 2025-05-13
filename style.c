@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,7 +8,7 @@
   <h1>Welcome to My Website</h1>
   <p>webpage</p>
   <p>This is a simple HTML page.</p>
-  <p>Here is another paragraph with more information about the site.</p>
+  <p>styding in amity university.</p>
   <p>paragraph about site </p>
 </body>
 </html>
